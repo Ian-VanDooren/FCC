@@ -1,0 +1,28 @@
+#header {
+  display: flex;
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  width: 100%;
+  padding: 10px
+}
+
+.nav-link {
+  align-self: flex-end;
+
+}
+
+#header-img {
+  display: flex;
+  align-items: flex-start;
+  border-radius: 50%;
+  opacity: 0.8;
+  width: 150px;
+
+}
+
+@media (max-width: 100px) {
+  #header-img {
+    max-width: 100%;
+  }
+}

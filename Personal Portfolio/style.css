@@ -1,0 +1,14 @@
+#navbar {
+  float: left;
+  padding: 14px 16px;
+  display: block;
+}
+
+@media screen {
+  #navbar {
+    float: left;
+    display: block;
+    padding: 14px 16px;
+
+  }
+}

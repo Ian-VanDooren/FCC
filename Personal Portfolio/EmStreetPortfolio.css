@@ -1,0 +1,26 @@
+@media all {
+  #navbar {
+
+    position: fixed;
+    top: 0;
+    border: 3px solid black;
+    width: 100%;
+    display: block;
+
+  }
+  .nav-link {
+    display: inline-block;
+    align
+  }
+}
+
+#welcome-section {
+  height: 100vh;
+
+}
+#projects {
+  height: 100vh;
+}
+#profile-link {
+  height: 100vh;
+}
